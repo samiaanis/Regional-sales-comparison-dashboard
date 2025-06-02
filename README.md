@@ -33,6 +33,13 @@ Enable upper management to:
 
 ---
 
+## 📸 Dashboard Preview
+
+Here is a visual of the Tableau dashboard comparing key sales metrics between two selected regions:
+
+![Tableau Dashboard](https://github.com/user-attachments/assets/6bbc99b7-234c-40d2-88ec-44900caf12e4)
+
+
 ## ✅ Key Steps Performed
 
 1. **Data Preparation**
